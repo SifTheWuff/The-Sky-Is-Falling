@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 3af705cf4942d154896056a246b94b2f
+timeCreated: 1456691700
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TitleButton_0
+    21300002: TitleButton_1
+    21300004: TitleButton_2
+    21300006: TitleButton_3
+    21300008: TitleButton_4
+    21300010: TitleButton_5
+    21300012: TitleButton_6
+    21300014: TitleButton_7
+    21300016: TitleButton_8
+    21300018: TitleButton_9
+    21300020: TitleButton_10
+    21300022: TitleButton_11
+    21300024: TitleButton_12
+    21300026: TitleButton_13
+    21300028: TitleButton_14
+    21300030: TitleButton_15
+    21300032: TitleButton_16
+    21300034: TitleButton_17
+    21300036: TitleButton_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TitleButton_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1529
+        width: 500
+        height: 900
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.024414, y: 189.84082}
+        - {x: 60.024414, y: 254.84082}
+        - {x: 89.024414, y: 254.84082}
+        - {x: 91.024414, y: 256.84082}
+        - {x: 92.024414, y: 293.84082}
+        - {x: 92.024414, y: 306.84082}
+        - {x: 49.024414, y: 400.84082}
+        - {x: -64.975586, y: 400.84082}
+        - {x: -78.975586, y: 350.84082}
+        - {x: -77.975586, y: 234.84082}
+        - {x: -70.975586, y: 226.84082}
+        - {x: 8.024414, y: 220.84082}
+        - {x: 8.024414, y: 189.84082}
+        - {x: -53.975586, y: 189.84082}
+        - {x: -91.975586, y: 165.84082}
+        - {x: -110.975586, y: 114.84082}
+        - {x: -110.975586, y: 17.84082}
+        - {x: -87.975586, y: -0.15917969}
+        - {x: 93.024414, y: -0.15917969}
+        - {x: 112.024414, y: 24.84082}
+        - {x: 112.024414, y: 107.84082}
+        - {x: 90.024414, y: 176.84082}
+      - - {x: -11.975586, y: 223.84082}
+        - {x: -12.975586, y: 221.84082}
+        - {x: -12.975586, y: 212.84082}
+        - {x: -5.975586, y: 205.84082}
+        - {x: 5.024414, y: 205.84082}
+        - {x: 6.024414, y: 210.84082}
+        - {x: 6.024414, y: 223.84082}
+      - - {x: -24.975586, y: 223.84082}
+        - {x: -26.975586, y: 221.84082}
+        - {x: -26.975586, y: 214.84082}
+        - {x: -24.975586, y: 212.84082}
+        - {x: -17.975586, y: 212.84082}
+        - {x: -15.975586, y: 214.84082}
+        - {x: -15.975586, y: 221.84082}
+        - {x: -17.975586, y: 223.84082}
+    - name: TitleButton_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 708
+        width: 500
+        height: 708
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101.024414, y: 117.884766}
+        - {x: 87.024414, y: 148.88477}
+        - {x: 99.024414, y: 165.88477}
+        - {x: 85.024414, y: 208.88477}
+        - {x: 62.024414, y: 254.88477}
+        - {x: 57.024414, y: 258.88477}
+        - {x: 49.024414, y: 287.88477}
+        - {x: 34.024414, y: 315.88477}
+        - {x: -69.975586, y: 315.88477}
+        - {x: -85.975586, y: 265.88477}
+        - {x: -89.975586, y: 163.88477}
+        - {x: -89.975586, y: 143.88477}
+        - {x: -88.975586, y: 139.88477}
+        - {x: -110.975586, y: 104.884766}
+        - {x: -110.975586, y: 22.884766}
+        - {x: -101.975586, y: 11.884766}
+        - {x: -78.975586, y: -0.115234375}
+        - {x: 78.024414, y: -0.115234375}
+        - {x: 90.024414, y: 3.8847656}
+        - {x: 112.024414, y: 24.884766}
+        - {x: 112.024414, y: 105.884766}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

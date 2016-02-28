@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 775f9ebbc05b95644be8fbe4aeb9f485
+timeCreated: 1456672977
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chicken_jetpack_bigger_s_0
+    21300002: chicken_jetpack_bigger_s_1
+    21300004: chicken_jetpack_bigger_s_2
+    21300006: chicken_jetpack_bigger_s_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: chicken_jetpack_bigger_s_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 89
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 58.5}
+        - {x: -44.5, y: 15.5}
+        - {x: -44.5, y: -51.5}
+        - {x: -40.5, y: -57.5}
+        - {x: 44.5, y: -57.5}
+        - {x: 44.5, y: 57.5}
+        - {x: 41.5, y: 58.5}
+    - name: chicken_jetpack_bigger_s_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 5
+        width: 89
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 57.5}
+        - {x: 38.5, y: 58.5}
+        - {x: -15.5, y: 58.5}
+        - {x: -38.5, y: 32.5}
+        - {x: -44.5, y: 5.5}
+        - {x: -44.5, y: -47.5}
+        - {x: -33.5, y: -53.5}
+        - {x: 22.5, y: -53.5}
+        - {x: 27.5, y: -52.5}
+        - {x: 44.5, y: -36.5}
+    - name: chicken_jetpack_bigger_s_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2
+        width: 89
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 58.5}
+        - {x: -44.5, y: 41.5}
+        - {x: -44.5, y: -48.5}
+        - {x: -38.5, y: -58.5}
+        - {x: 42.5, y: -58.5}
+        - {x: 44.5, y: -45.5}
+        - {x: 44.5, y: 43.5}
+        - {x: 42.5, y: 58.5}
+    - name: chicken_jetpack_bigger_s_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 5
+        width: 89
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 58.5}
+        - {x: -44.5, y: 34.5}
+        - {x: -44.5, y: -53.5}
+        - {x: 39.5, y: -53.5}
+        - {x: 44.5, y: -41.5}
+        - {x: 44.5, y: 57.5}
+        - {x: 39.5, y: 58.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
